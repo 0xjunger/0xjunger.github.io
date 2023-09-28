@@ -2,8 +2,8 @@
 
 # Hey, I'm Jünger!
 
-I'm actually a physicist. While I used to work on lasers, my current focus is on particle physics and conducting experiments at CERN.
-Nowadays, my work consists mostly of cryptography and mathematics rather than physics.
+I'm a Turkish physicist. While I used to work on lasers, my current focus is on particle physics and conducting experiments at CERN.
+<ins>Nowadays, my work consists mostly of cryptography and mathematics rather than physics.</ins>
 
 ## Contacts
 
