@@ -13,7 +13,7 @@ I follow the [cypherpunk](https://nakamotoinstitute.org/static/docs/cypherpunk-m
 
 # What I'm doing?
 
-I am currently studying the mathematical concepts necessary for cryptography. I have provided introductory resources on basic cryptography and am currently applying fundamentals using <ins>Rust</ins> programming language.
+I am currently studying the mathematical concepts necessary for cryptography. I have commenced studying fundamental cryptography resources and am presently applying this knowledge using the <ins>Rust</ins> programming language.
 
 We also develop decentralised applications for <ins>BlocklandLabs</ins>. We are currently developing our work on <ins>Starknet</ins>, and we will soon enhance our professionalism.
 
