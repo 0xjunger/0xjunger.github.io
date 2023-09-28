@@ -12,7 +12,7 @@ Nowadays, my work consists mostly of cryptography and mathematics rather than ph
 - [Github](https://github.com/0xjunger/)
 
 
-# What I'm interested in?
+# Why I'm here?
 
 I follow the cypherpunk philosophy. In my opinion, privacy in the digital era is an essential requirement, not just an option. Therefore, I am committed to utilizing the necessary tools for creating privacy protocols.
 
