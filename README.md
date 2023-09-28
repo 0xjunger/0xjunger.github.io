@@ -8,7 +8,7 @@ I'm a Turkish physicist. While I used to work on lasers, my current focus is on 
 
 # Why I'm here?
 
-I follow the cypherpunk(https://en.wikipedia.org/wiki/Cypherpunk) philosophy. In my opinion, privacy in the digital era is an essential requirement, not just an option. Therefore, I am committed to utilizing the necessary tools for creating privacy protocols.
+I follow the [cypherpunk](https://en.wikipedia.org/wiki/Cypherpunk) philosophy. In my opinion, privacy in the digital era is an essential requirement, not just an option. Therefore, I am committed to utilizing the necessary tools for creating privacy protocols.
 
 
 # What I'm doing?
