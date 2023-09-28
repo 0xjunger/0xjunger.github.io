@@ -1,4 +1,4 @@
-<img src="jğnger.jpeg" alt="jünger">
+<img src="junger.jpeg" alt="junger">
 
 # Hey, I'm Jünger!
 
