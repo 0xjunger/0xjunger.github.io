@@ -15,8 +15,6 @@ I follow the [cypherpunk](https://nakamotoinstitute.org/static/docs/cypherpunk-m
 
 I am currently studying the mathematical concepts necessary for cryptography. I have commenced studying fundamental cryptography resources and am presently applying this knowledge using the <ins>Rust</ins> programming language.
 
-
-
 We also develop dapps for <ins>BlocklandLabs</ins>. We are currently developing our work on <ins>Starknet</ins>, and we will soon enhance our professionalism.
 
 
@@ -25,4 +23,5 @@ We also develop dapps for <ins>BlocklandLabs</ins>. We are currently developing 
 - [Based Rollup Design]([https://twitter.com/Junger0x](https://x.com/Junger0x/status/1732065787936923764/))
 - [Based Rollup for Dummies](https://x.com/Junger0x/status/1755953071417434343/)
 - [Taiko's Multi-Proof](https://x.com/Junger0x/status/1745772573424513220)
+- [Decentralizing Rollups](https://0xjunger.substack.com/p/decentralizing-rollups)
 
