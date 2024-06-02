@@ -2,20 +2,20 @@
 
 # Hey, I'm Jünger!
 
-I'm a Turkish physicist. While I used to work on lasers, my current focus is on particle physics and conducting experiments at CERN.
-<ins>Nowadays, my work consists mostly of cryptography and mathematics rather than physics.</ins>
-
+I'm a Turkish physicist. I study particle physics and contribute to CERN experiments. I met with distributed systems 4 years ago, and I'm studying cryptography for 7 months.
 
 # Why I'm here?
 
-I follow the [cypherpunk](https://nakamotoinstitute.org/static/docs/cypherpunk-manifesto.txt) philosophy. Privacy in the digital era is an essential requirement, not just an option. Therefore, I am committed to utilizing the necessary tools for creating trustlessness protocols.
+I follow the [cypherpunk](https://nakamotoinstitute.org/static/docs/cypherpunk-manifesto.txt) philosophy. Privacy in the digital age is a necessity, not just an option. That is why I am committed to researching and contributing to trustlessness protocols.
 
 
 # What I'm doing?
 
-I am currently studying the mathematical concepts necessary for cryptography. I have commenced studying fundamental cryptography resources and am presently applying this knowledge using the <ins>Rust</ins> programming language.
+I am currently contributing to Taiko. I am researching a new decentralized approach to rollup designs called [Based Rollups](https://ethresear.ch/t/based-rollups-superpowers-from-l1-sequencing/15016), which, unlike centralized methods, involve building blocks entirely on Ethereum and under Ethereum's security.
 
-We also develop dapps for <ins>BlocklandLabs</ins>. We are currently developing our work on <ins>Starknet</ins>, and we will soon enhance our professionalism.
+In addition, I have been interested in cryptography for a long time and am continually improving my knowledge in this field. I am researching zkVM and zkEVMs, as well as working on multi-proof development and exploring the use of Trusted Execution Environments (TEEs, i.e SGX) in blockchains.
+
+Also, together with a confident group of friends, we are working on various underground dapps and infrastructures. Besides our research, we invest in projects we see valuable.
 
 
 ## Writings
