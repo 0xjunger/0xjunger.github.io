@@ -13,7 +13,7 @@ I follow the [cypherpunk](https://nakamotoinstitute.org/static/docs/cypherpunk-m
 
 I am currently contributing to [Taiko](https://x.com/taikoxyz). I am researching a new decentralized approach to rollup designs called [Based Rollups](https://ethresear.ch/t/based-rollups-superpowers-from-l1-sequencing/15016), which, unlike centralized methods, involve building blocks entirely on Ethereum and under Ethereum's security.
 
-In addition, I have been interested in cryptography for a long time and am continually improving my knowledge in this field. I am researching zkVM and zkEVMs, as well as working on multi-proof development and exploring the use of Trusted Execution Environments (TEEs, i.e SGX) in blockchains.
+In addition, I have been interested in cryptography for a long time and am continually improving my knowledge in this field. I am researching zkVM and zkEVMs, as well as working on multi-proof development and exploring the use of [Trusted Execution Environments](https://learn.microsoft.com/en-us/azure/confidential-computing/trusted-execution-environment) (TEEs, i.e SGX) in blockchains.
 
 Also, together with a confident group of friends, we are working on various underground dapps and infrastructures. Besides our research, we invest in projects we see valuable.
 
