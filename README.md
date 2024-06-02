@@ -2,7 +2,7 @@
 
 # Hey, I'm Jünger!
 
-I'm a Turkish physicist. I study particle physics and contribute to CERN experiments. I met with distributed systems 4 years ago, and I'm studying cryptography for 7 months.
+I'm a Turkish physicist. I study particle physics and contribute to CERN experiments. I met with distributed systems 4 years ago, and I'm studying cryptography and related applications in blockchains.
 
 # Why I'm here?
 
