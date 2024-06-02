@@ -11,7 +11,7 @@ I follow the [cypherpunk](https://nakamotoinstitute.org/static/docs/cypherpunk-m
 
 # What I'm doing?
 
-I am currently contributing to Taiko. I am researching a new decentralized approach to rollup designs called [Based Rollups](https://ethresear.ch/t/based-rollups-superpowers-from-l1-sequencing/15016), which, unlike centralized methods, involve building blocks entirely on Ethereum and under Ethereum's security.
+I am currently contributing to [Taiko](https://x.com/taikoxyz). I am researching a new decentralized approach to rollup designs called [Based Rollups](https://ethresear.ch/t/based-rollups-superpowers-from-l1-sequencing/15016), which, unlike centralized methods, involve building blocks entirely on Ethereum and under Ethereum's security.
 
 In addition, I have been interested in cryptography for a long time and am continually improving my knowledge in this field. I am researching zkVM and zkEVMs, as well as working on multi-proof development and exploring the use of Trusted Execution Environments (TEEs, i.e SGX) in blockchains.
 
