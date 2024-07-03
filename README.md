@@ -4,7 +4,7 @@
 
 I'm a Turkish physicist. I'm studying particle(accelerator) physics and contribute to CERN-related experiments. I met with distributed systems 4 years ago, and I'm studying cryptography and related applications in Ethereum. 
 
-I follow the [cypherpunk](https://nakamotoinstitute.org/static/docs/cypherpunk-manifesto.txt) philosophy. Privacy in the digital age is a necessity, not just an option. That is why I am committed to researching and contributing to trustlessness protocols.
+I follow the [cypherpunk](https://nakamotoinstitute.org/static/docs/cypherpunk-manifesto.txt) philosophy. Privacy in the digital age is a necessity, not just an option. That is why I am committed to researching and contributing to trustless and verifiable protocols.
 
 # What I'm doing?
 
