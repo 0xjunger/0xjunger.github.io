@@ -2,12 +2,7 @@
 
 # Hey, I'm Jünger!
 
-I'm a Turkish physicist. I'm studying particle(accelerator) physics and contribute to CERN experiments. I met with distributed systems 4 years ago, and I'm studying cryptography and related applications in blockchains.
-
-# Why I'm here?
-
-I follow the [cypherpunk](https://nakamotoinstitute.org/static/docs/cypherpunk-manifesto.txt) philosophy. Privacy in the digital age is a necessity, not just an option. That is why I am committed to researching and contributing to trustlessness protocols.
-
+I'm a Turkish physicist. I'm studying particle(accelerator) physics and contribute to CERN-related experiments. I met with distributed systems 4 years ago, and I'm studying cryptography and related applications in Ethereum. I follow the [cypherpunk](https://nakamotoinstitute.org/static/docs/cypherpunk-manifesto.txt) philosophy. Privacy in the digital age is a necessity, not just an option. That is why I am committed to researching and contributing to trustlessness protocols.
 
 # What I'm doing?
 
@@ -16,7 +11,6 @@ I am currently contributing to [Taiko](https://x.com/taikoxyz). I am researching
 In addition, I have been interested in cryptography for a long time and am continually improving my knowledge in this field. I am researching zkVM and zkEVMs, as well as working on multi-proof development and exploring the use of [Trusted Execution Environments](https://learn.microsoft.com/en-us/azure/confidential-computing/trusted-execution-environment) (TEEs, i.e SGX) in blockchains.
 
 Also, together with a confident group of friends, we are working on various underground dapps and infrastructures. Besides our research, we invest in projects we see valuable.
-
 
 ## Writings
 
